@@ -1,0 +1,45 @@
+commit 402cdd0d6643571baffa944aa4c352228705e8ca
+Merge: 4c5b16c b8e7ee6
+Author: Mohammad Rahman <baboradib675@gmail.com>
+Date:   Thu Feb 5 19:08:38 2026 -0800
+
+    resolved merge conflicts
+
+commit b8e7ee62bf0b37c2f78afbbdbad3321734842bde
+Author: Mohammad Rahman <baboradib675@gmail.com>
+Date:   Thu Feb 5 19:05:10 2026 -0800
+
+    added new div about my favorite movie
+
+commit 4c5b16c2b8527e3b3e3915b56d932e1d8d1b7e85
+Author: Mohammad Rahman <baboradib675@gmail.com>
+Date:   Thu Feb 5 19:01:26 2026 -0800
+
+    added new div about my favorite food
+
+commit 8cd348b98aa8b72f35f4b33e2e60f47d0382a0fb
+Author: Mohammad Rahman <baboradib675@gmail.com>
+Date:   Thu Feb 5 18:53:35 2026 -0800
+
+    added readme file
+
+commit d5c143c87bcf63d5d8fa693142c5fc4cd81589a0
+Merge: 1d2bfc0 ac0e142
+Author: MohammadR04 <151074214+MohammadR04@users.noreply.github.com>
+Date:   Thu Feb 5 18:49:49 2026 -0800
+
+    Merge pull request #1 from MohammadR04/info-fill
+    
+    filling the missing info
+
+commit ac0e142c376874fecbd28595d995a75b1121f504
+Author: Mohammad Rahman <baboradib675@gmail.com>
+Date:   Thu Feb 5 18:42:23 2026 -0800
+
+    filling the missing info
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
